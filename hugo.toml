@@ -1,7 +1,7 @@
 baseURL = "https://windows-wireless-printer-help.pages.dev/"
 languageCode = "en-us"
 title = "Windows Wireless Printer Help"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "windows-wireless-printer-help"
