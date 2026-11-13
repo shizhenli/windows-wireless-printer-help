@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://windows-wireless-printer-help.pages.dev/sitemap.xml
