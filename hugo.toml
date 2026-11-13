@@ -1,0 +1,11 @@
+baseURL = "https://windows-wireless-printer-help.pages.dev/"
+languageCode = "en-us"
+title = "Windows Wireless Printer Help"
+enableRobotsTXT = true
+[params]
+description = "Bring a Windows 11 wireless printer back online: queue, spooler, WSD/IP port, driver, and one-device verification."
+category = "PC & Mac"
+source = "windows-wireless-printer-help"
+email = "hello@handytasklab.com"
+[markup.goldmark.renderer]
+unsafe = true
